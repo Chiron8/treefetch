@@ -1,4 +1,4 @@
-# 🌲 `treefetch`
+# 🌲 `treefetch` but with the arch linux logo 
 
 <img src="https://img.shields.io/github/v/release/angelofallars/treefetch?display_name=tag&color=1A90D2"> <img src="https://img.shields.io/github/stars/angelofallars/treefetch?label=stars&color=C3B640"> <img src="https://img.shields.io/github/issues/angelofallars/treefetch?color=87599A"> <img src="https://img.shields.io/github/downloads/angelofallars/treefetch/total?label=downloads&logo=github&color=6EA340"> 
 
